@@ -1,45 +1,38 @@
 
-<h1 align="center"><b>Hi , I'm Tina ✨</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+<h1 align="center"><b>Hi, I'm Tina </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-<br>
-
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Security+Engineer+Former+QA+Engineer+<3;Responsible+for+Mend+and+exploring+Checkmarx;Learning+JAVA+through+UCB+course+now!"></a>
+</p>
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>**About me**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<br>
-
-- Currently learning Java through a UCB course
 
 - **Current Position:** Security Engineer
   - Manages SCA tool Mend (WhiteSource)
-  - Focuses on implementing DecSecOps
-  - Enhances product quality and security
+  - Scripting customize pipeline
 
 - **Research Focus:**
   - Implementation of DecSecOps
   - Enhancement of product quality and security
 
 - **Previous Experience:**
-  - 1 year as a QA Engineer in electronic payment app domain
-  - Experience in Security Operations Center (SOC)
+  - Majoring in Finance with a double major in Information Systems.
+  - 1 year as a QA Engineer in electronic payment app domain & Security Operations Center (Web)
+  - Web automaiton & API automation
 
 - **Passion and Expertise:**
   - Passionate about Security and Quality Testing
   - Special interest in sharing considerations for using open sources
 
 
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
@@ -47,6 +40,7 @@
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
     ![Shell Script](https://img.shields.io/badge/Shell%20Script%20-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
@@ -58,9 +52,6 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
-
-
     
 <br>
 
@@ -71,6 +62,7 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![Charles Proxy](https://img.shields.io/badge/Charles%20Proxy%20-%231777B5.svg?style=for-the-badge&logo=charles&logoColor=white)
     ![Postman](https://img.shields.io/badge/Postman%20-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+    ![Jenkins](https://img.shields.io/badge/Jenkins%20-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
 
@@ -85,17 +77,12 @@
 
 </p>
 
-<br>
-<br>
-
 -----
 
 <br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
 <div align="center">
 
 <a href="https://github.com/tina94happy/">
@@ -105,14 +92,8 @@
 </a>
 </div>
 
-<br>
-<br>
-<br>
 
 -----
-
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
