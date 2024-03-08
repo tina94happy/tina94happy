@@ -12,8 +12,10 @@
 
 
 - **Current Position:** Security Engineer
-  - Manages SCA tool Mend (WhiteSource)
-  - Scripting customize pipeline
+  - Managed SCA tool Mend (WhiteSource)
+  - Checkmarx SAST
+  - Scripting customize pipeline, ex. Jenkins,Azure,GitLab,Github
+  - Assured Docker security
 
 - **Research Focus:**
   - Implementation of DecSecOps
